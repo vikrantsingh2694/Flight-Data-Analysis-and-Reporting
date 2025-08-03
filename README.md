@@ -1,4 +1,5 @@
 **Flight Data Analysis and Reporting — SQL Project**
+
 📌 **Introduction**
 This project is a comprehensive SQL-based analysis of an airline database that simulates real-world flight operations. The goal is to derive actionable insights for key stakeholders—including airline management, operations teams, and customer service—by querying operational data such as flight schedules, bookings, revenues, seat occupancy, and more.
 
