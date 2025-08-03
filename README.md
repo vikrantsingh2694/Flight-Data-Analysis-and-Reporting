@@ -1,10 +1,10 @@
-#Flight Data Analysis and Reporting — SQL Project
-📌 #Introduction
+**Flight Data Analysis and Reporting — SQL Project**
+📌 **Introduction**
 This project is a comprehensive SQL-based analysis of an airline database that simulates real-world flight operations. The goal is to derive actionable insights for key stakeholders—including airline management, operations teams, and customer service—by querying operational data such as flight schedules, bookings, revenues, seat occupancy, and more.
 
 All SQL queries were written and tested on MySQL Workbench, adhering to best practices such as aliasing, performance optimization, and result formatting.
 
-🧠 #Key Business Objectives
+🧠 **Key Business Objectives**
 Monitor flight delays and punctuality
 
 Measure aircraft utilization and seating efficiency
