@@ -83,8 +83,9 @@ Fare condition ‘Business’ led in average ticket revenue
 pgsql
 Copy
 Edit
-├── Template_for_learners.sql       # Main SQL script with all query solutions
-├── Flight Data Analysis and Reporting_Problem_Statement.pdf
-└── README.md                       # This file
+- Template_for_learners.sql       # Main SQL script with all query solutions
+- Flight Data Analysis and Reporting_Problem_Statement.pdf
+- README.md                       # This file
+
 🙌 **Acknowledgements**
 This project is part of an applied learning assignment to demonstrate SQL data analytics on aviation data. Thanks to vLearn Platform for the structured schema and real-world problem statement.
