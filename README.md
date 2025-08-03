@@ -14,10 +14,10 @@ Analyze revenue generation by route and booking patterns
 
 Understand passenger behavior from bookings to boarding
 
-✅ #Tasks Performed
+✅ **Tasks Performed**
 This project includes solutions to 17 real-world business questions grouped under multiple airline analytics themes:
 
-✈️ #Flight & Aircraft Operations
+✈️ **Flight & Aircraft Operations**
 Calculate delay in departures for late flights
 
 Measure aircraft utilization by number of flights
@@ -26,7 +26,7 @@ Analyze average flight duration by aircraft model
 
 Assess occupancy rate per aircraft
 
-💺 #Passenger & Boarding Analysis
+💺 **Passenger & Boarding Analysis**
 Average boarding number and total passengers per flight
 
 Frequent routes and route-level boarding patterns
@@ -35,7 +35,7 @@ Distribution of ticket sales by fare condition
 
 Total spend per passenger across all journeys
 
-💰 #Revenue & Booking Insights
+💰 **Revenue & Booking Insights**
 Total and top 3 revenue-generating flights
 
 Daily booking trends (volume and revenue)
@@ -44,7 +44,7 @@ Hourly peak booking activity
 
 Revenue by route (departure → arrival pair)
 
-🗂️ #Dataset and Schema Overview
+🗂️ **Dataset and Schema Overview**
 The project operates on a normalized relational schema containing the following key entities:
 
 Table	Description
@@ -57,7 +57,7 @@ ticket_flights	Ticket and flight link with fare details
 boarding_passes	Passenger boarding data with order number
 seats	Aircraft-wise seat configurations
 
-🛠️ #How to Use This Project
+**🛠️ How to Use This Project**
 Environment:
 Install and configure MySQL Workbench or any compatible SQL interface.
 
@@ -70,7 +70,7 @@ Open the provided .sql file (Template_for_learners.sql) in MySQL Workbench and e
 Query Customization:
 You may tweak conditions (e.g., filter by aircraft model, specific date ranges, or airports) to tailor the analysis for other scenarios.
 
-📈 #Sample Output Highlights
+📈 **Sample Output Highlights**
 Flight ID 1021 had a delay of 37 minutes
 
 Aircraft A320 operated the most flights (85), averaging 135.6 mins per flight
@@ -79,12 +79,12 @@ Top revenue-generating route: DEL → BOM, earning ₹6.5M+
 
 Fare condition ‘Business’ led in average ticket revenue
 
-📁 #File Structure
+📁 **File Structure**
 pgsql
 Copy
 Edit
 ├── Template_for_learners.sql       # Main SQL script with all query solutions
 ├── Flight Data Analysis and Reporting_Problem_Statement.pdf
 └── README.md                       # This file
-🙌 #Acknowledgements
+🙌 **Acknowledgements**
 This project is part of an applied learning assignment to demonstrate SQL data analytics on aviation data. Thanks to vLearn Platform for the structured schema and real-world problem statement.
